@@ -8,6 +8,7 @@ let count = document.getElementById('count');
 let category = document.getElementById('category');
 let submit = document.getElementById('submit');
 
+
 // get total
 function getTotal()
 {
